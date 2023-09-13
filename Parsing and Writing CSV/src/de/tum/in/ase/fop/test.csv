@@ -1,0 +1,5 @@
+name,email,password
+max,max@mustermann.de,"M@xMust3r"
+angela,angela@example.de,"1,2,4,5,6,7,8,9"
+anton,,password
+clippy,clippy@example.de,"I'm ""Clippy"""
